@@ -19,4 +19,4 @@ A simple website that acts as a marketplace for content creators, where users ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/content-creator-marketplace.git
+   git clone https://github.com/AnnaEbisike/content-creator-marketplace.git
